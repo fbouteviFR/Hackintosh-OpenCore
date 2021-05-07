@@ -1,5 +1,3 @@
-# Hackintosh-OpenCore
-
 # HP EliteBook 1040 G4 with OpenCore
 
 ### Status: Running

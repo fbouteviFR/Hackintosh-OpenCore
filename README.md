@@ -82,3 +82,5 @@ Install Heliport for WIFI
 - [Dortania OC guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - [Rehabman's battery patch guide](https://www.tonymacx86.com/threads/guide-how-to-patch-dsdt-for-working-battery-status.116102/) and [Rehabman's ACPI hotpatching guide](https://www.tonymacx86.com/threads/guide-using-clover-to-hotpatch-acpi.200137/)
 - [OpenWireless and itlwm](https://github.com/OpenIntelWireless/itlwm)
+- Thanks also to Hackintool / great tool
+- Thanks also to OpenCore Configurator / great tool too :)
